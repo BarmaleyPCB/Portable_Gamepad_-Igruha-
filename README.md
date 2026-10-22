@@ -7,7 +7,9 @@
 > **Статус:** Проект завершен. Плата спроектирована, заказана и ожидает сборки.
 
 ## 🎮 Демонстрация
+
 <img width="1211" height="855" alt="image" src="https://github.com/user-attachments/assets/81128c2f-5c28-49dc-817f-0a307eed8db8" />
+
 *Внешний вид устройства*
 
 <img width="400" height="711" alt="VID_20261022_140042 (1) (1)" src="https://github.com/user-attachments/assets/0b4310f0-5f79-4b45-887f-024253df69e2" />
