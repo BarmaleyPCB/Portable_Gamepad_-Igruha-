@@ -31,6 +31,26 @@
 
 <img width="1046" height="962" alt="image" src="https://github.com/user-attachments/assets/a61b3413-ac55-4c18-8e45-eb01c13d484e" />
 
+В роли стиков для симуляции выступают два потенциометра по 5 kΩ каждый.
+
+<img width="1046" height="485" alt="image" src="https://github.com/user-attachments/assets/034017a2-6787-434e-bf89-2130c3cbb626" />
+
+После отклонения стика идёт изменения сопротивления внутри джойстика который сравнивается с порогами делителей напряжения. Тут покажу только индикацию Лево/Право так как для остальных компараторов суть работы никак не меняется. 
+Для наглядной демонстрации смотрите в окно симуляции.
+
+## Стик отклонён максимально вправо
+
+<img width="1046" height="485" alt="image" src="https://github.com/user-attachments/assets/12559093-9281-46a2-8aca-80efce83d93e" />
+
+## Стик находится в центре
+
+<img width="1046" height="519" alt="image" src="https://github.com/user-attachments/assets/20055893-e4fd-4be0-936f-f74f7b77d591" />
+
+## Стик отклонён максимально влево
+
+<img width="1046" height="485" alt="image" src="https://github.com/user-attachments/assets/753afea8-a2f3-48ab-b912-8b963f127dfb" />
+
+
 ## 3.1 Доказательство работоспособности индикации направления 
 
 ### 3.2 Источник опорного напряжения на TL431
